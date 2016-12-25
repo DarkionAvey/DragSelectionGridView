@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Workspace\GalleryGridView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Workspace\GalleryGridView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e1d8a7b5cdc093a7a85a4da9fefc126b41997225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Users\Tina\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Workspace\GalleryGridView\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_69dd922a92ec5292a63a75905415fae9aab054f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Workspace\GalleryGridView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Workspace\GalleryGridView\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_0974a7a5c23b25e56fa72b671ea0225cfaa5ddca.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="fgTint">#ffffff</color>
+    <color name="backgroundColor">#242229</color>
+    <color name="gridCheckedBackground">#2d2b35</color>
+    <color name="gridItemPlaceholder">#10ffffff</color>
+
+    <color name="foregroundColor">#2c2A31</color>
+    <color name="colorAccent">#E53835</color>
+    <color name="colorAccentText">#ddffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+</resources>
